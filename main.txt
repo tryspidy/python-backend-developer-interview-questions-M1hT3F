@@ -1,0 +1,16 @@
+Q1: What Is CAP Theorem?
+Q2: What REST stands for?
+Q3: What are NoSQL databases? What are the different types of NoSQL databases?
+Q4: What do you understand by NoSQL databases? Explain.
+Q5: What is SQL injection?
+Q6: What is meant by Continuous Integration?
+Q7: Compare SQL databases and MongoDB at a high level
+Q8: Difference between acceptance test and functional test?
+Q9: Explain the architectural style for creating web API?
+Q10: How to mitigate the SQL Injection risks?
+Q11: Name some performance testing steps
+Q12: What are some advantages of using Go?
+Q13: What are the advantages of Web Services?
+
+IMP : FOR ANSWERS OR MORE QUESTIONS VISIT 
+https://www.fullstack.cafe/blog/backend-developer-interview-questions
